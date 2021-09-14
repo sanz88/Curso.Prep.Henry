@@ -1,0 +1,10 @@
+ 
+Definiciones:
+Variables: Es un elemento que se crea para almacenar un dato y poder utilizarlo en el momento que se desee.
+
+Strings: Son cadenas de caracteres, o  sea números y letras, que forman frases.
+
+Funciones: Son una serie de instrucciones que el lenguaje de programación sigue para conseguir un dato o un valor, los argumentos son las condiciones que debe de tener esa funciòn y el return es el resultado que la función nos muestra.
+Declaraciones if: If significa sí condicional en inglés, por lo que las declaraciones if son instrucciones que se deben seguir en caso de que una condición se cumpla o no. De esta manera si la condición se cumple nos va a retornar un resultado y si no entonces nos retornará otro totalmente distinto.
+
+Valores booleanos: Son métodos de comparación de dos valores que dependiendo de si la condición se cumple o no, nos arrojan el resultado falso o verdadero.

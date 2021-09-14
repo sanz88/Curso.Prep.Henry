@@ -1,0 +1,11 @@
+Definiciones:
+
+Variables: Son elementos que se crean para guardar datos para poder recuperarlos cuando los necesitemos.
+
+Strings: Son cadenas de caracteres, es decir números y letras, que forman una frase.
+
+Funciones (argumentos, return) Son un serie  de instrucciones que se agrupan para que cumplan una labor determinada, los argumentos son las opciones que se le definen y return es el resultado que nos devuelve cuando se cumplen las instrucciones.
+
+Declaraciones if: Son declaraciones en las que en caso de cumplirse una condición nos arrojan un resultado y si no se cumple nos arroja otro diferente.
+
+Valores booleanos: Son un método para comparar opciones que nos va a arrojar un sí o true o un no o false.
