@@ -1,0 +1,8 @@
+
+for: Es un método de Javascript que permite que una acción se repita una cantidad determinada de veces.
+
+&& || ! Se les llama operadores lógicos y nos permiten ver las condiciones que se cumplen o no cuando analizamos dos expresiones en Javascript
+&&: Significa "Y" en español.  Es una forma de revisar que una condición se cumpla en dos expresiones, por ejemplo: Messi es argentino Y futbolista" 
+||: En español significa "O", en este caso sirve para comprobar si una de las dos expresiones es verdadera, por ejemplo: "El mejor futbolista en la actualidad es Messi O Cristiano.
+!: Significa "NO" y en este caso puesto antes de un valor falso o verdadero  devuelve el valor contrario al indicado después del !, ejemplo: " !falso CR7 es el mejor futbolista" devolvería el valor Verdadero.
+
